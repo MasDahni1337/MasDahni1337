@@ -4,4 +4,4 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=MasDahni1337 alt=MasDahni1337 /> </p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=MasDahni1337&show_icons=true&include_all_commits=true)](https://github.com/MasDahni1337/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasDahni1337&layout=compact)](https://github.com/MasDahni1337/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MasDahni1337)](https://github.com/MasDahni1337/github-readme-stats)
